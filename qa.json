@@ -1,0 +1,162 @@
+[
+	{
+	 "q":"The International team of scientists has recently cracked the genetic code of which cultivated crop for the first time?",
+	 "a":"Wheat",
+	 "b":"Rice",
+	 "c":"Maize",
+	 "d":"Pulses",
+	 "ca":"a"
+	},
+	{
+	 "q":"Organisms without nucleus and cell organelles belong to",
+	 "a":"Fungi",
+	 "b":"Protista",
+	 "c":"Algae",
+	 "d":"Bacteria",
+	 "ca":"b"
+	},
+	{
+	 "q":"Which cells do not have perforated cell walls?",
+	 "a":"Tracheids",
+	 "b":"Companion cells",
+	 "c":"Sieve tubes",
+	 "d":"Vessels",
+	 "ca":"a"
+	},
+	{
+	 "q":"Seema visited a Natural Gas Compressing Unit and found that the gas can be liquefied under specific conditions of temperature and pressure. While sharing her experience with friends she got confused. Help her to identity the correct set of conditions",
+	 "a":"Low temperature, low pressure",
+	 "b":"High temperature, low pressure",
+	 "c":"Low temperature, high pressure",
+	 "d":"High temperature, high pressure",
+	 "ca":"c"
+	},
+	{
+	 "q":"Survival of plants in terrestrial environment has been made possible by the presence of",
+	 "a":"intercalary meristem",
+	 "b":"conducting tissue",
+	 "c":"apical meristem",
+	 "d":"parenchymatous tissue",
+	 "ca":"b"
+	},
+	{
+	 "q":"In which group of animals coelom is filled with blood?",
+	 "a":"Arthropoda",
+	 "b":"Annelida",
+	 "c":"Nematoda",
+	 "d":"Echinodermata",
+	 "ca":"a"
+	},
+	{
+	 "q":"On which date, the 2018 World Photography Day (WPD) was observed recently?",
+	 "a":"August 17",
+	 "b":"August 19",
+	 "c":"August 18",
+	 "d":"August 20",
+	 "ca":"b"
+	},
+	{
+	 "q":"Which of the following is the 2018 World Humanitarian Day (WHD) theme?",
+	 "a":"#ShareHumanity",
+	 "b":"#ImpossibleChoices",
+	 "c":"#OneHumanity",
+	 "d":"#NotATarget",
+	 "ca":"d"
+	},
+	{
+	 "q":"The numerical ratio of displacement to distance covered by a moving object is",
+	 "a":"always less than 1",
+	 "b":"always equal to 1",
+	 "c":"always more than 1",
+	 "d":"equal or less than 1 ",
+	 "ca":"d"
+	},
+	{
+	 "q":"According to the third law of motion, action and reaction",
+	 "a":"always act on the same body",
+	 "b":"always act on different bodies in opposite directions",
+	 "c":"have same magnitude and direction",
+	 "d":"act on either body at normal to each other ",
+	 "ca":"b"
+	}
+	{
+		"q":"The International team of scientists has recently cracked the genetic code of which cultivated crop for the first time?",
+		"a":"Wheat",
+		"b":"Rice",
+		"c":"Maize",
+		"d":"Pulses",
+		"ca":"a"
+	   },
+	   {
+		"q":"Organisms without nucleus and cell organelles belong to",
+		"a":"Fungi",
+		"b":"Protista",
+		"c":"Algae",
+		"d":"Bacteria",
+		"ca":"b"
+	   },
+	   {
+		"q":"Which cells do not have perforated cell walls?",
+		"a":"Tracheids",
+		"b":"Companion cells",
+		"c":"Sieve tubes",
+		"d":"Vessels",
+		"ca":"a"
+	   },
+	   {
+		"q":"Seema visited a Natural Gas Compressing Unit and found that the gas can be liquefied under specific conditions of temperature and pressure. While sharing her experience with friends she got confused. Help her to identity the correct set of conditions",
+		"a":"Low temperature, low pressure",
+		"b":"High temperature, low pressure",
+		"c":"Low temperature, high pressure",
+		"d":"High temperature, high pressure",
+		"ca":"c"
+	   },
+	   {
+		"q":"Survival of plants in terrestrial environment has been made possible by the presence of",
+		"a":"intercalary meristem",
+		"b":"conducting tissue",
+		"c":"apical meristem",
+		"d":"parenchymatous tissue",
+		"ca":"b"
+	   },
+	   {
+		"q":"In which group of animals coelom is filled with blood?",
+		"a":"Arthropoda",
+		"b":"Annelida",
+		"c":"Nematoda",
+		"d":"Echinodermata",
+		"ca":"a"
+	   },
+	   {
+		"q":"On which date, the 2018 World Photography Day (WPD) was observed recently?",
+		"a":"August 17",
+		"b":"August 19",
+		"c":"August 18",
+		"d":"August 20",
+		"ca":"b"
+	   },
+	   {
+		"q":"Which of the following is the 2018 World Humanitarian Day (WHD) theme?",
+		"a":"#ShareHumanity",
+		"b":"#ImpossibleChoices",
+		"c":"#OneHumanity",
+		"d":"#NotATarget",
+		"ca":"d"
+	   },
+	   {
+		"q":"The numerical ratio of displacement to distance covered by a moving object is",
+		"a":"always less than 1",
+		"b":"always equal to 1",
+		"c":"always more than 1",
+		"d":"equal or less than 1 ",
+		"ca":"d"
+	   },
+	   {
+		"q":"According to the third law of motion, action and reaction",
+		"a":"always act on the same body",
+		"b":"always act on different bodies in opposite directions",
+		"c":"have same magnitude and direction",
+		"d":"act on either body at normal to each other ",
+		"ca":"b"
+	   }
+]
